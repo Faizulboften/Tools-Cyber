@@ -43,7 +43,7 @@ echo $pu"
 ══════════════════════════════════════════
 ┗────[99] EXIT/PROGRAM"
 echo '\033[35;1m'
-read -p "root@Pilih Nomor > " bro
+read -p "root@Pilih Nomor > "
 
 
 if [ $pil = 1 ]
